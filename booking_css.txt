@@ -1,0 +1,49 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/hotelbg.png");
+    background-size: cover;
+    height: 100vh;
+}
+
+.card-container {
+    background-color: #000000e6;
+    padding: 10px;
+    border-radius: 15px;
+    margin: 20px;
+    height: 160px;
+}
+
+.card-hotel-name {
+    color: white;
+    font-size: 25px;
+    font-family: "bree serif";
+}
+
+.card-hotel-address {
+    color: white;
+    font-size: 15px;
+    font-family: "roboto";
+}
+
+.card-button {
+    background-color: white;
+    color: black;
+    border-radius: 10px;
+    width: 105px;
+    font-size: 15px;
+    border-style: solid;
+    margin-bottom: 20px;
+    height: 35px;
+    border-color: white;
+}
+
+.card-button-container {
+    text-align: center;
+}
+
+.card-hotel-price {
+    color: white;
+    font-family: "bree serif";
+    font-size: 25px;
+}
